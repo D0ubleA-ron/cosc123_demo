@@ -10,7 +10,7 @@ If you want to **bold** text, just surround the words with double star.
 If you want to make a list:
 - Item 1
 - Item 2
-- Item 3
+
 
 If you want a numbered list:
 1. Item 1
